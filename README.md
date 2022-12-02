@@ -1,3 +1,5 @@
-# Library-Management-System
-Project 2- Building Innovative Systems (UCS757)
-A library management system project built using java swing and mysql in NetBeans IDE.
+A library management system project 
+Aims to reduce the paperwork and human effort by automation of the library.
+Built by a team of two in Netbeans IDE using java core. 
+Conceptualized using Java Swing and Database Management in MySQL.
+
