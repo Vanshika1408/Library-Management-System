@@ -25,8 +25,14 @@ The frontend is connected to backend via JDBC in the connecting class.
 
 3. Input/Output
 
-The user inputs his/her userid and password which is authenticated by the backend sql server. For the new user, signing up option is there. There is also an option of forget password which authenticates the user using a security question (asked during the signup process). 
+The user inputs his/her userid and password which is authenticated by the backend sql server. For the new user, signing up option is there.
 So, the user enters his/her details and gets home page access in the output. 
+
+<img width="433" alt="signuo" src="https://user-images.githubusercontent.com/91916983/208253694-2babed70-d210-478f-81d4-2cee0f6d7d42.png">
+
+<img width="438" alt="signup1" src="https://user-images.githubusercontent.com/91916983/208253704-e69e2f12-49c8-4345-b46b-f90b3fb92c21.png">
+
+
 
 4. Live link
 
