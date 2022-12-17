@@ -20,12 +20,13 @@ The backend in mysql has database named librarymanagement and 5 tables are creat
 a. account b. book c. issuebook d. returnbook e. student
 The frontend is connected to backend via JDBC in the connecting class.
 
+<img width="298" alt="sql" src="https://user-images.githubusercontent.com/91916983/208253445-08514eea-21d1-48f1-9821-7ab5e47c8b17.png">
+
+
 3. Input/Output
 
 The user inputs his/her userid and password which is authenticated by the backend sql server. For the new user, signing up option is there. There is also an option of forget password which authenticates the user using a security question (asked during the signup process). 
 So, the user enters his/her details and gets home page access in the output. 
-
-<img width="298" alt="sql" src="https://user-images.githubusercontent.com/91916983/208253445-08514eea-21d1-48f1-9821-7ab5e47c8b17.png">
 
 4. Live link
 
