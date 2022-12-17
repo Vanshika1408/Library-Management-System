@@ -1,12 +1,12 @@
-Title- Library Management System
+#Title- Library Management System
 
-1. Methodology
+##1. Methodology
 
 The project is build on Apache Netbeans in core java and java swing. The first and foremost task is to identify the day-to-day operations of the library. After these are identified, the classes are created for different operations- login, signup, home page containing all the operations. The next task is to connect the java classes to the sql using JDBC so that the data at backend can be accessed. Then . All the pages are linked to one another in a specific order. 
 
 <img width="583" alt="flowchart" src="https://user-images.githubusercontent.com/91916983/208253381-8fa1b7b8-e4d2-40ce-a2ae-cab8ac603728.png">
 
-2. Description
+##2. Description
 
 The frontend contains a total of 14 .java classes and a sql database. 
 
@@ -22,8 +22,7 @@ The frontend is connected to backend via JDBC in the connecting class.
 
 <img width="298" alt="sql" src="https://user-images.githubusercontent.com/91916983/208253445-08514eea-21d1-48f1-9821-7ab5e47c8b17.png">
 
-
-3. Input/Output
+##3. Input/Output
 
 The user inputs his/her userid and password which is authenticated by the backend sql server. For the new user, signing up option is there.
 So, the user enters his/her details and gets home page access in the output. 
@@ -32,13 +31,11 @@ So, the user enters his/her details and gets home page access in the output.
 
 <img width="438" alt="signup1" src="https://user-images.githubusercontent.com/91916983/208253704-e69e2f12-49c8-4345-b46b-f90b3fb92c21.png">
 
-
-
-4. Live link
+##4. Live link
 
 https://github.com/Vanshika1408/Library-Management-System
 
-5. Screenshots
+##5. Screenshots
 
 <img width="734" alt="front" src="https://user-images.githubusercontent.com/91916983/208252942-4ff64253-0229-401a-a8b0-9be5d3217737.png">
 
